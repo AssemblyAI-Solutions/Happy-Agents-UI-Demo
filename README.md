@@ -1,4 +1,9 @@
-      This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Happy Agents UI Template
+
+1. Update .env file with AssemblyAI key.
+2. Update the api/transcripts.js file to connect retreive transcripts from your database.
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
